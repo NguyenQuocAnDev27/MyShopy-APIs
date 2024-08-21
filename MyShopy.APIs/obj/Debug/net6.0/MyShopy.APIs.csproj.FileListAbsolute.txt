@@ -1,0 +1,149 @@
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\appsettings.json
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\MyShopy.APIs.exe
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\MyShopy.APIs.deps.json
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\MyShopy.APIs.runtimeconfig.json
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\MyShopy.APIs.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\MyShopy.APIs.pdb
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\MyShopy.Models.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\MyShopy.Models.pdb
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\obj\Debug\net6.0\MyShopy.APIs.csproj.AssemblyReference.cache
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\obj\Debug\net6.0\MyShopy.APIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\obj\Debug\net6.0\MyShopy.APIs.AssemblyInfoInputs.cache
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\obj\Debug\net6.0\MyShopy.APIs.AssemblyInfo.cs
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\obj\Debug\net6.0\MyShopy.APIs.csproj.CoreCompileInputs.cache
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\obj\Debug\net6.0\MyShopy.APIs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\obj\Debug\net6.0\MyShopy.APIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\obj\Debug\net6.0\staticwebassets\msbuild.MyShopy.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.MyShopy.APIs.props
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyShopy.APIs.props
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyShopy.APIs.props
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\obj\Debug\net6.0\scopedcss\bundle\MyShopy.APIs.styles.css
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\obj\Debug\net6.0\MyShopy..22AD6194.Up2Date
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\obj\Debug\net6.0\MyShopy.APIs.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\obj\Debug\net6.0\refint\MyShopy.APIs.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\obj\Debug\net6.0\MyShopy.APIs.pdb
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\obj\Debug\net6.0\MyShopy.APIs.genruntimeconfig.cache
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\obj\Debug\net6.0\ref\MyShopy.APIs.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\appsettings.Development.json
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\appsettings.json
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\MyShopy.APIs.exe
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\MyShopy.APIs.deps.json
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\MyShopy.APIs.runtimeconfig.json
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\MyShopy.APIs.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\MyShopy.APIs.pdb
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\MyShopy.Models.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\bin\Debug\net6.0\MyShopy.Models.pdb
+D:\Github\MyShopy-APIs\MyShopy.APIs\obj\Debug\net6.0\MyShopy.APIs.csproj.AssemblyReference.cache
+D:\Github\MyShopy-APIs\MyShopy.APIs\obj\Debug\net6.0\MyShopy.APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\MyShopy-APIs\MyShopy.APIs\obj\Debug\net6.0\MyShopy.APIs.AssemblyInfoInputs.cache
+D:\Github\MyShopy-APIs\MyShopy.APIs\obj\Debug\net6.0\MyShopy.APIs.AssemblyInfo.cs
+D:\Github\MyShopy-APIs\MyShopy.APIs\obj\Debug\net6.0\MyShopy.APIs.csproj.CoreCompileInputs.cache
+D:\Github\MyShopy-APIs\MyShopy.APIs\obj\Debug\net6.0\MyShopy.APIs.MvcApplicationPartsAssemblyInfo.cs
+D:\Github\MyShopy-APIs\MyShopy.APIs\obj\Debug\net6.0\MyShopy.APIs.MvcApplicationPartsAssemblyInfo.cache
+D:\Github\MyShopy-APIs\MyShopy.APIs\obj\Debug\net6.0\MyShopy.APIs.sourcelink.json
+D:\Github\MyShopy-APIs\MyShopy.APIs\obj\Debug\net6.0\staticwebassets.build.json
+D:\Github\MyShopy-APIs\MyShopy.APIs\obj\Debug\net6.0\staticwebassets.development.json
+D:\Github\MyShopy-APIs\MyShopy.APIs\obj\Debug\net6.0\staticwebassets\msbuild.MyShopy.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Github\MyShopy-APIs\MyShopy.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.MyShopy.APIs.props
+D:\Github\MyShopy-APIs\MyShopy.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyShopy.APIs.props
+D:\Github\MyShopy-APIs\MyShopy.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyShopy.APIs.props
+D:\Github\MyShopy-APIs\MyShopy.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Github\MyShopy-APIs\MyShopy.APIs\obj\Debug\net6.0\scopedcss\bundle\MyShopy.APIs.styles.css
+D:\Github\MyShopy-APIs\MyShopy.APIs\obj\Debug\net6.0\MyShopy..22AD6194.Up2Date
+D:\Github\MyShopy-APIs\MyShopy.APIs\obj\Debug\net6.0\MyShopy.APIs.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\obj\Debug\net6.0\refint\MyShopy.APIs.dll
+D:\Github\MyShopy-APIs\MyShopy.APIs\obj\Debug\net6.0\MyShopy.APIs.pdb
+D:\Github\MyShopy-APIs\MyShopy.APIs\obj\Debug\net6.0\MyShopy.APIs.genruntimeconfig.cache
+D:\Github\MyShopy-APIs\MyShopy.APIs\obj\Debug\net6.0\ref\MyShopy.APIs.dll

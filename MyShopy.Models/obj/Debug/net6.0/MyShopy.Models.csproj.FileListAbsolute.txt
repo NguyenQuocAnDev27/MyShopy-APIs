@@ -1,0 +1,29 @@
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.Models\bin\Debug\net6.0\MyShopy.Models.deps.json
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.Models\bin\Debug\net6.0\MyShopy.Models.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.Models\bin\Debug\net6.0\MyShopy.Models.pdb
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.Models\obj\Debug\net6.0\MyShopy.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.Models\obj\Debug\net6.0\MyShopy.Models.AssemblyInfoInputs.cache
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.Models\obj\Debug\net6.0\MyShopy.Models.AssemblyInfo.cs
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.Models\obj\Debug\net6.0\MyShopy.Models.csproj.CoreCompileInputs.cache
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.Models\obj\Debug\net6.0\MyShopy.Models.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.Models\obj\Debug\net6.0\refint\MyShopy.Models.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.Models\obj\Debug\net6.0\MyShopy.Models.pdb
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.Models\obj\Debug\net6.0\ref\MyShopy.Models.dll
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.Models\bin\Debug\net6.0\MyShopy.Models.runtimeconfig.json
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.Models\obj\Debug\net6.0\MyShopy.Models.csproj.AssemblyReference.cache
+C:\Users\yanyu\Documents\My Code\C# Projects\MyShopy_v2\MyShopy.Models\obj\Debug\net6.0\MyShopy.Models.genruntimeconfig.cache
+D:\Github\MyShopy-APIs\MyShopy.Models\bin\Debug\net6.0\MyShopy.Models.deps.json
+D:\Github\MyShopy-APIs\MyShopy.Models\bin\Debug\net6.0\MyShopy.Models.runtimeconfig.json
+D:\Github\MyShopy-APIs\MyShopy.Models\bin\Debug\net6.0\MyShopy.Models.dll
+D:\Github\MyShopy-APIs\MyShopy.Models\bin\Debug\net6.0\MyShopy.Models.pdb
+D:\Github\MyShopy-APIs\MyShopy.Models\obj\Debug\net6.0\MyShopy.Models.csproj.AssemblyReference.cache
+D:\Github\MyShopy-APIs\MyShopy.Models\obj\Debug\net6.0\MyShopy.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\MyShopy-APIs\MyShopy.Models\obj\Debug\net6.0\MyShopy.Models.AssemblyInfoInputs.cache
+D:\Github\MyShopy-APIs\MyShopy.Models\obj\Debug\net6.0\MyShopy.Models.AssemblyInfo.cs
+D:\Github\MyShopy-APIs\MyShopy.Models\obj\Debug\net6.0\MyShopy.Models.csproj.CoreCompileInputs.cache
+D:\Github\MyShopy-APIs\MyShopy.Models\obj\Debug\net6.0\MyShopy.Models.sourcelink.json
+D:\Github\MyShopy-APIs\MyShopy.Models\obj\Debug\net6.0\MyShopy.Models.dll
+D:\Github\MyShopy-APIs\MyShopy.Models\obj\Debug\net6.0\refint\MyShopy.Models.dll
+D:\Github\MyShopy-APIs\MyShopy.Models\obj\Debug\net6.0\MyShopy.Models.pdb
+D:\Github\MyShopy-APIs\MyShopy.Models\obj\Debug\net6.0\MyShopy.Models.genruntimeconfig.cache
+D:\Github\MyShopy-APIs\MyShopy.Models\obj\Debug\net6.0\ref\MyShopy.Models.dll

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\MyShopy-APIs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B00F0FCF-F22E-4129-BF88-905858190313}|MyShopy.Models\\MyShopy.Models.csproj|d:\\github\\myshopy-apis\\myshopy.models\\services\\productstatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B00F0FCF-F22E-4129-BF88-905858190313}|MyShopy.Models\\MyShopy.Models.csproj|solutionrelative:myshopy.models\\services\\productstatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91211FA-9543-429D-B1D7-8248E7AB8D41}|MyShopy.APIs\\MyShopy.APIs.csproj|d:\\github\\myshopy-apis\\myshopy.apis\\controllers\\productstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91211FA-9543-429D-B1D7-8248E7AB8D41}|MyShopy.APIs\\MyShopy.APIs.csproj|solutionrelative:myshopy.apis\\controllers\\productstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductStatusController.cs",
+              "DocumentMoniker": "D:\\Github\\MyShopy-APIs\\MyShopy.APIs\\Controllers\\ProductStatusController.cs",
+              "RelativeDocumentMoniker": "MyShopy.APIs\\Controllers\\ProductStatusController.cs",
+              "ToolTip": "D:\\Github\\MyShopy-APIs\\MyShopy.APIs\\Controllers\\ProductStatusController.cs",
+              "RelativeToolTip": "MyShopy.APIs\\Controllers\\ProductStatusController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:16:00.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductStatusService.cs",
+              "DocumentMoniker": "D:\\Github\\MyShopy-APIs\\MyShopy.Models\\Services\\ProductStatusService.cs",
+              "RelativeDocumentMoniker": "MyShopy.Models\\Services\\ProductStatusService.cs",
+              "ToolTip": "D:\\Github\\MyShopy-APIs\\MyShopy.Models\\Services\\ProductStatusService.cs",
+              "RelativeToolTip": "MyShopy.Models\\Services\\ProductStatusService.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:15:59.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
